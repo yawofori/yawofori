@@ -16,7 +16,7 @@ I am a Geologist and Geophysicist with extensive experience leading multidiscipl
 - 🌱 Exploring full-stack web development, focusing on HTML/CSS, JavaScript, React, Python, and Django.
 
 ## Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django&theme=dark&perline=6" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,php&theme=dark&perline=6" /> </a> </p>
 
 ## 🌱 Currently Exploring
 
